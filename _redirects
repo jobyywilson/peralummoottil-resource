@@ -1,1 +1,6 @@
 /*    /default.png   200
+[[redirects]]
+  from = "/*"
+  to = "/default.png"
+  status = 200
+  headers = {IsImageFound= "false"}
