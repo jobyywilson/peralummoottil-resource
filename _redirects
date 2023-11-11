@@ -1,5 +1,1 @@
-[[redirects]]
-  from = "/*"
-  to = "/default.png"
-  status = 200
-  headers = {IsImageFound= "false"}
+/*    /default.png   308
